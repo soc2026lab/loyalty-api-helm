@@ -1,0 +1,7 @@
+image:
+  repository: registry.sandschina.com/loyalty/api
+  tag: "2.4.1"
+database:
+  host: pgloy01.sandschina.com
+  user: svc_loyalty_api
+  password: SYNTHETIC-m6FlofTrNOX8OTpK
